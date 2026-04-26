@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nicola Ferretti 👋</h1>
+<h1 align="center">Hey, I'm Nicola 👋</h1>
 
 <p align="center">
   📈 MSc student in Economics, Finance & Data Analysis &nbsp;·&nbsp; Financial Markets track
