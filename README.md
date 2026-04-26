@@ -16,12 +16,6 @@ Here are the main tools and technologies I use across my academic and personal p
 </p>
 <br/>
 
-<p align="center">
-  <i>Always learning, always building.</i>
-</p>
-
-<br/>
-
 ---
 
 <p align="center">
