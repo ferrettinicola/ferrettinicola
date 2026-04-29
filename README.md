@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Nicola 👋</h1>
+<h1 align="center"> I'm Nicola </h1>
 
 <p align="center">
-  📈 MSc student in Economics, Finance & Data Analysis &nbsp;·&nbsp; Financial Markets track
+  📈 MSc student in Economics, Finance & Data Analysis &nbsp;·&nbsp; majoring in Financial Markets
 </p>
 
 <br/>
