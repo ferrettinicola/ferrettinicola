@@ -12,7 +12,7 @@
 Here are the main tools and technologies I use across my academic and personal projects:
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,r,github,latex,streamlit,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,r,github,latex,streamlit,canva,apple&theme=dark" />
 </p>
 <br/>
 
