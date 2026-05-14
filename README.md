@@ -1,19 +1,21 @@
-<h1 align="center"> I'm Nicola </h1>
+<div align="center">
 
-<p align="center">
-  📈 MSc student in Economics, Finance & Data Analysis &nbsp;·&nbsp; majoring in Financial Markets
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=I'm+Nicola+👋;MSc+student+in+Economics%2C+Finance+%26+Data+Analysis)](https://git.io/typing-svg)
+
+<sub>📈 majoring in Financial Markets</sub>
+
+</div>
 
 <br/>
 
 ---
 
-🛠️ Tools & Technologies I've Worked With
-Here are the main tools and technologies I use across my academic and personal projects:
-<br/>
+### 🛠️ Tools & Technologies I've Worked With
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,apple,photoshop,matlab,r,latex,vscode,python,obsidian,github&theme=dark" />
 </p>
+
 <br/>
 
 ---
