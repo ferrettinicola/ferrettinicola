@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=👋+I'm+Nicola;MSc+student+in+Economics%2C+Finance+%26+Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=I'm+Nicola+👋;📈+MSc+student+in+Economics%2C+Finance+%26+Data+Analysis)](https://git.io/typing-svg)
 
 <sub>📈 majoring in Financial Markets</sub>
 
